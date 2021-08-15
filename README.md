@@ -6,19 +6,19 @@ The data set contains 3 classes of 50 instances each, where each class refers to
 
 Attribute Information:-
 
-sepal length in cm
-sepal width in cm
-petal length in cm
-petal width in cm
+sepal length in cm,
+sepal width in cm,
+petal length in cm,
+petal width in cm,
 species: -- Iris Setosa -- Iris Versicolour -- Iris Virginica
 
 
 Libraries
 
-pandas
-matplotlib
-seaborn
-scikit-learn
+1) pandas
+2) matplotlib
+3) seaborn
+4) scikit-learn
 
 Algorithms: 
 
